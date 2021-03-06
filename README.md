@@ -43,7 +43,7 @@ Github Pages Hello world: https://pages.github.com/<br/>
     2. 64-bit Git for Windows Portable. -> rozpakować i powinno działać pod "git-bash.exe"
 6. Należy zapoznać się z komendami **git**:
     1. `init`, `add`, `commit`, `push`, `pull`, `merge`, `clone`, `branch`, `checkout`
-7. Należy pobrać VSCode: https://code.visualstudio.com/
+7. Zalecanym jest używać (ale nie jest to wymóg - nie mam jak tego zweryfikować) VSCode: https://code.visualstudio.com/
 8. W serwisie **github** należy utworzyć *repozytorium* o nazwie: *NAZWA_UŻYTKOWNIKA.github.io*
     1. Zgodnie z tutorialem na stronie: https://guides.github.com/features/pages/ dotyczącym tzw **Github Pages**
 9. Repozytorium to należy *sklonować* lokalnie na własny komputer poleceniem `git clone git@github.com:NAZWA_UŻYTKOWNIKA/NAZWA_REPOZYTORIUM.git`
