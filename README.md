@@ -47,7 +47,7 @@ Github Pages Hello world: https://pages.github.com/<br/>
 7. Zalecanym jest używać (ale nie jest to wymóg - nie mam jak tego zweryfikować) VSCode: https://code.visualstudio.com/
 8. W serwisie **github** należy utworzyć *repozytorium* o nazwie: *NAZWA_UŻYTKOWNIKA.github.io*
     1. Zgodnie z tutorialem na stronie: https://guides.github.com/features/pages/ dotyczącym tzw **Github Pages**
-9. Repozytorium to należy *sklonować* lokalnie na własny komputer poleceniem `git clone git@github.com:NAZWA_UŻYTKOWNIKA/NAZWA_REPOZYTORIUM.git`
+9. Repozytorium to należy *sklonować* lokalnie na własny komputer poleceniem `git clone git@github.com:NAZWA_UŻYTKOWNIKA/NAZWA_REPOZYTORIUM`
     1. Istotne jest aby używać `git@github.com` a nie `https://github.com/` - w ten sposób autoryzacja następuje poprzez wcześniej wygenerowane **klucze SSH**
 10. W repozytorium tym należy utworzyć plik index.html
 11. Plik index.html należy wypełnić tekstem "Hello world" przy użyciu HTML oraz nałożyć na ten tekst style CSS
