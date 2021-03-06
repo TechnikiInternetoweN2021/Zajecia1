@@ -34,7 +34,6 @@ Github Pages Hello world: https://pages.github.com/<br/>
 2. Zarejestrować się w serwisie **github** o ile nie ma się wcześniej utworzonego konta które posiada niewykorzystane Github Pages
     1. Wysłać nick z rejestracji (nazwę użytkownika) na adres e-mail: wdlubacz@zarz.agh.edu.pl przy czym: 
     2. Mail ten najlepiej wysłać z adresu z którego będzie się dana osoba chciała kontaktować ze mną w ramach wytłumaczenia jakiegoś zadania poza zajęciami
-    3. W mailu zawrzeć informacje z której grupy ćwiczeniowej się jest (grupa 2 lub 3)
 3. Należy wygenerować oraz podpiąć **klucze SSH** do konta Github:
     1. https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
 5. Należy mieć klienta **git** na swoim systemie operacyjnym:
