@@ -1,6 +1,5 @@
 # Zajecia1
 
-Przykladowa modyfikacja readme
 Link do meetingu:
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk4ZGUxZWUtMGYyMC00NDJiLWIxZDItMGY0ZDNkOWMwNTNj%40thread.v2/0?context=%7b%22Tid%22%3a%2280b1033f-21e0-4a82-bbc0-f05fdccd3bc8%22%2c%22Oid%22%3a%22331e097f-9d0e-4021-9227-f8fce0d4797c%22%7d
