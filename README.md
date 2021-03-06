@@ -37,7 +37,8 @@ Github Pages Hello world: https://pages.github.com/<br/>
     3. Do przesłanego użytkownika *Github* zostanie wysłane zaproszenie do dołączenia do **organizacji TechnikiInternetoweN2021 na Github**
     4. Należy zaakceptować zaproszenie - pozostałe materiały do zajęć będą udostępniane przy użyciu prywatnych repozytoriów
 3. Należy wygenerować oraz podpiąć **klucze SSH** do konta Github:
-    1. https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+    1. Generowanie: https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+    2. Podpinanie: https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
 5. Należy mieć klienta **git** na swoim systemie operacyjnym:
     1. Dla systemu Windows zalecam skorzystać z: https://git-scm.com/downloads
     2. 64-bit Git for Windows Portable. -> rozpakować i powinno działać pod "git-bash.exe"
